@@ -1,8 +1,3 @@
-# Resubmitting this after not completing it properly first time around. The first time 
-# worked by I didn't do it as a function that uses the minesweeper board as a parameter. 
-# I have now done this.
-
-
 # Define a function that takes in the minesweeper 2D list board (b) as a parameter
 
 def scores(b):
